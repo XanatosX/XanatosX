@@ -1,6 +1,8 @@
-### Hello my Name is Xanatos
+### Hello i'm known as Xanatos in the internet
 
-I'm a professional Java programmer who likes to program games and software in private as well. I do like to play and try to code my own games.
+I am a professional Java programmer who likes to program open source software and games as a hobby. If I code in my free time I manly use c# or play around with other languages, just for fun.
+
+I'm a gamer since i was a kid.
 
 ### Tools, Languages and Software
 
