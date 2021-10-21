@@ -1,4 +1,4 @@
-### Hello i'm known as Xanatos in the internet
+## Hello i'm known as Xanatos on the internet
 
 I am a professional Java programmer who likes to program open source software and games as a hobby. If I code in my free time I manly use c# or play around with other languages, just for fun.
 
@@ -39,4 +39,5 @@ I'm a gamer since i was a kid.
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XanatosX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XanatosX&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
