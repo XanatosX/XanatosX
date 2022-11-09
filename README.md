@@ -2,7 +2,9 @@
 
 I am a professional Java programmer who likes to program open source software and games as a hobby. If I code in my free time I manly use c# or play around with other languages, just for fun.
 
-I'm a gamer since i was a kid.
+I'm a gamer since i was a child.
+
+I am <a rel="me" href="https://social.dev-wiki.de/@Xanatos">@Xanatos@social.dev-wiki.de </a> on Mastodon, feel free to follow me.
 
 ### Tools, Languages and Software
 
