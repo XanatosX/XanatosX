@@ -1,10 +1,8 @@
 ## Hello i'm known as Xanatos on the internet
 
-I am a professional Java programmer who likes to program open source software and games as a hobby. If I code in my free time I manly use c# or play around with other languages, just for fun.
+I am a professional Java programmer who has a passion for developing open-source software and games as a hobby. In my free time, I often explore other programming languages, with a particular interest in C#. I enjoy experimenting with new languages and technologies purely for fun and personal growth.
 
-I'm a gamer since i was a child.
-
-I am <a rel="me" href="https://social.dev-wiki.de/@Xanatos">@Xanatos@social.dev-wiki.de </a> on Mastodon, feel free to follow me.
+From a young age, I have been an avid gamer, and this passion has stayed with me throughout my life.
 
 ### Tools, Languages and Software
 
@@ -22,10 +20,9 @@ I am <a rel="me" href="https://social.dev-wiki.de/@Xanatos">@Xanatos@social.dev-
 ##### IDEs
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 ##### CI
 
